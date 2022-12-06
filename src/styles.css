@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: bisque;
+}
+
+.App {
+  width: 50%;
+  margin: auto;
+}
+
+.genreBtn {
+  padding: 0.4rem 0.6rem;
+  margin: 2rem 0.4rem 0.5rem 0.4rem;
+  border-radius: 0.5rem;
+  background-color: lightsalmon;
+}
+
+.top-heading {
+  margin-top: 4rem;
+}
+
+.sub-heading {
+}
